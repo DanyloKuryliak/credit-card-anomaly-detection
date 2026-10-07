@@ -17,7 +17,7 @@ Compared models: Isolation Forest, Local Outlier Factor (LOF), and One-Class SVM
 
 ## Results
 
-The later block contains 56,962 transactions and 75 fraud cases. Higher is better for every metric below except no model metric is a fraud probability.
+The later block contains 56,962 transactions and 75 fraud cases. Higher is better for every metric, but no model score is a fraud probability.
 
 | Model | Fraud found in 285 reviews | Precision at 285 | Recall at 285 | PR-AUC | ROC-AUC |
 | --- | ---: | ---: | ---: | ---: | ---: |
